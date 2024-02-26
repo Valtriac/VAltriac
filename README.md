@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align = "right" alt ="coding" width = "300" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ0NXBjaTN5aGFxNzk2MWM5YW1ia2E0dGhqcjZ3Z2cwZjQ2N2h3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lrc9WU5iEPnCNPHicU/giphy.gif">
+<img align = "right" alt ="coding" width = "300" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRoYnNydm5wcDR6N3R4MTU1YTR2dzJlbzViNXowYm80ajdtd2ZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lESsVoYTL4o3K40zZx/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valtriac&label=Profile%20views&color=0e75b6&style=flat" alt="valtriac" /> </p>
 
